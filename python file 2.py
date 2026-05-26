@@ -1,0 +1,11 @@
+
+print("i wake up at 6 am")
+print("i go to school at 7 am")
+print("i come back at 12 am")
+print("i have lunch at 1 am")
+print("i study 4 hours at afternoon")
+print("i study 2 hours in evening")
+print("i have dinner at 8 pm")
+print("i play 1 hour at night")
+print ("i sleep at 10 pm")
+print("total study hours in a week is", 6 * 7)
